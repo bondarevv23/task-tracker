@@ -1,4 +1,4 @@
-# tasks
+# tasks-tracker
 
 This project is done in connection with my tutoring. I helped student to master the material of the course "Java developer" by Yandex Practicum.
 
